@@ -1,7 +1,7 @@
 def bacon():
     
 
-    spam = 6
+    spam = 3
 
 
     if spam == 10:
@@ -11,4 +11,4 @@ def bacon():
     else:
         print('ham')
         print('spam')
-        print('spam')
+        print('spam2')
